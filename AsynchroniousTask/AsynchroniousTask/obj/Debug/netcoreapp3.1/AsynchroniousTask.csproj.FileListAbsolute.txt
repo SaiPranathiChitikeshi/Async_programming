@@ -1,0 +1,12 @@
+C:\Users\Sai Baba\Desktop\innRoad\AsynchroniousTask\AsynchroniousTask\bin\Debug\netcoreapp3.1\AsynchroniousTask.exe
+C:\Users\Sai Baba\Desktop\innRoad\AsynchroniousTask\AsynchroniousTask\bin\Debug\netcoreapp3.1\AsynchroniousTask.deps.json
+C:\Users\Sai Baba\Desktop\innRoad\AsynchroniousTask\AsynchroniousTask\bin\Debug\netcoreapp3.1\AsynchroniousTask.runtimeconfig.json
+C:\Users\Sai Baba\Desktop\innRoad\AsynchroniousTask\AsynchroniousTask\bin\Debug\netcoreapp3.1\AsynchroniousTask.runtimeconfig.dev.json
+C:\Users\Sai Baba\Desktop\innRoad\AsynchroniousTask\AsynchroniousTask\bin\Debug\netcoreapp3.1\AsynchroniousTask.dll
+C:\Users\Sai Baba\Desktop\innRoad\AsynchroniousTask\AsynchroniousTask\bin\Debug\netcoreapp3.1\AsynchroniousTask.pdb
+C:\Users\Sai Baba\Desktop\innRoad\AsynchroniousTask\AsynchroniousTask\obj\Debug\netcoreapp3.1\AsynchroniousTask.AssemblyInfoInputs.cache
+C:\Users\Sai Baba\Desktop\innRoad\AsynchroniousTask\AsynchroniousTask\obj\Debug\netcoreapp3.1\AsynchroniousTask.AssemblyInfo.cs
+C:\Users\Sai Baba\Desktop\innRoad\AsynchroniousTask\AsynchroniousTask\obj\Debug\netcoreapp3.1\AsynchroniousTask.csproj.CoreCompileInputs.cache
+C:\Users\Sai Baba\Desktop\innRoad\AsynchroniousTask\AsynchroniousTask\obj\Debug\netcoreapp3.1\AsynchroniousTask.dll
+C:\Users\Sai Baba\Desktop\innRoad\AsynchroniousTask\AsynchroniousTask\obj\Debug\netcoreapp3.1\AsynchroniousTask.pdb
+C:\Users\Sai Baba\Desktop\innRoad\AsynchroniousTask\AsynchroniousTask\obj\Debug\netcoreapp3.1\AsynchroniousTask.genruntimeconfig.cache
